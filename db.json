@@ -1,0 +1,235 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "James Doe",
+      "email": "jamess@mail.com",
+      "phone": "0894561230",
+      "birthday": "1991-13-07",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Software Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 2,
+      "name": "Sarah Smith",
+      "email": "sarahs@mail.com",
+      "phone": "0894561231",
+      "birthday": "1995-05-20",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Computer Science",
+      "admissionYear": "2021"
+    },
+    {
+      "id": 3,
+      "name": "John Johnson",
+      "email": "johnj@mail.com",
+      "phone": "0894561232",
+      "birthday": "1990-10-15",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "66/45",
+      "major": "Electrical Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "email": "emilyd@mail.com",
+      "phone": "0894561233",
+      "birthday": "1993-08-30",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "67/45",
+      "major": "Mechanical Engineering",
+      "admissionYear": "2021"
+    },
+    {
+      "id": 5,
+      "name": "Michael Brown",
+      "email": "michaelb@mail.com",
+      "phone": "0894561234",
+      "birthday": "1992-12-05",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "68/45",
+      "major": "Information Technology",
+      "admissionYear": "2020"
+    },
+    {
+      "id": 6,
+      "name": "Olivia Wilson",
+      "email": "oliviaw@mail.com",
+      "phone": "0894561235",
+      "birthday": "1994-04-12",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "69/45",
+      "major": "Civil Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 7,
+      "name": "William Taylor",
+      "email": "williamt@mail.com",
+      "phone": "0894561236",
+      "birthday": "1996-01-25",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "70/45",
+      "major": "Computer Science",
+      "admissionYear": "2020"
+    },
+    {
+      "id": 8,
+      "name": "Ava Lee",
+      "email": "avale@mail.com",
+      "phone": "0894561237",
+      "birthday": "1991-09-08",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "71/45",
+      "major": "Biomedical Engineering",
+      "admissionYear": "2021"
+    },
+    {
+      "id": 9,
+      "name": "Liam Martin",
+      "email": "liamm@mail.com",
+      "phone": "0894561238",
+      "birthday": "1993-06-17",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "72/45",
+      "major": "Software Engineering",
+      "admissionYear": "2020"
+    },
+    {
+      "id": 10,
+      "name": "Mia Anderson",
+      "email": "miaa@mail.com",
+      "phone": "0894561239",
+      "birthday": "1995-11-03",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "73/45",
+      "major": "Electrical Engineering",
+      "admissionYear": "2021"
+    },
+    {
+      "id": 11,
+      "name": "Noah Wilson",
+      "email": "noahw@mail.com",
+      "phone": "0894561240",
+      "birthday": "1992-03-18",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "74/45",
+      "major": "Computer Science",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 12,
+      "name": "Sophia Martinez",
+      "email": "sophiam@mail.com",
+      "phone": "0894561241",
+      "birthday": "1994-07-24",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "75/45",
+      "major": "Biomedical Engineering",
+      "admissionYear": "2020"
+    },
+    {
+      "id": 13,
+      "name": "Logan Harris",
+      "email": "loganh@mail.com",
+      "phone": "0894561242",
+      "birthday": "1993-04-14",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "76/45",
+      "major": "Civil Engineering",
+      "admissionYear": "2021"
+    },
+    {
+      "id": 14,
+      "name": "Lily Adams",
+      "email": "lilya@mail.com",
+      "phone": "0894561243",
+      "birthday": "1995-02-28",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "77/45",
+      "major": "Mechanical Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 15,
+      "name": "Elijah Thomas",
+      "email": "elijaht@mail.com",
+      "phone": "0894561244",
+      "birthday": "1990-08-10",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "78/45",
+      "major": "Information Technology",
+      "admissionYear": "2020"
+    },
+    {
+      "id": 16,
+      "name": "Avery Jackson",
+      "email": "averyj@mail.com",
+      "phone": "0894561245",
+      "birthday": "1992-12-01",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "79/45",
+      "major": "Computer Science",
+      "admissionYear": "2021"
+    },
+    {
+      "id": 17,
+      "name": "Carter Miller",
+      "email": "carterm@mail.com",
+      "phone": "0894561246",
+      "birthday": "1994-05-29",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "80/45",
+      "major": "Software Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 18,
+      "name": "Evelyn White",
+      "email": "evelynw@mail.com",
+      "phone": "0894561247",
+      "birthday": "1991-11-07",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "81/45",
+      "major": "Biomedical Engineering",
+      "admissionYear": "2020"
+    },
+    {
+      "id": 19,
+      "name": "Mason Hall",
+      "email": "masonh@mail.com",
+      "phone": "0894561248",
+      "birthday": "1993-09-23",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "82/45",
+      "major": "Civil Engineering",
+      "admissionYear": "2021"
+    },
+    {
+      "id": 20,
+      "name": "Harper Scott",
+      "email": "harpers@mail.com",
+      "phone": "0894561249",
+      "birthday": "1995-01-12",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "83/45",
+      "major": "Mechanical Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "name": "jay graydison",
+      "email": "graydi26@gmail.com",
+      "phone": "0890899989",
+      "birthday": "2003-02-07",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Software Engineering",
+      "admissionYear": "2021",
+      "id": 21
+    }
+  ]
+}
